@@ -1,0 +1,17 @@
+resumo POO:
+-conceito:
+    •paradigma de programação baseado em objetos.
+    •objetos representam entidades do mundo real
+-Principais caracteristicas
+    •classe
+    •objetos
+    •atributo
+    •metodos
+-Pilares de POO
+    •Encapsulamento: protege os dados, permitindo que apenas metodos autorizados os alterem/modifiquem.
+    •Herança: permite que uma classederive da outra, herdando seus atributos e metodos.
+    •poliformismo: permite que classes derivados possua diferentes comportamentos.
+    •abstração: oculta detalhes complexos.
+-Vantagens da POO:
+    •Reutilização de código, manutenção facilitada, moldagem e escalabilidade.
+    
